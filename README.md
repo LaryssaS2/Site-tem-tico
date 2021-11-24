@@ -1,4 +1,4 @@
-# SteTematico
+# SiteTematico
 Projeto destinado a escola.
 
 Os sites devem ter:
