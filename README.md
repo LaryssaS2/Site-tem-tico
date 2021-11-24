@@ -9,8 +9,4 @@ Os sites devem ter:
 - menu;
 - logo tipo e nomes proprios (sem copia);
 
-Dicas: definir uma paleta de cores;
-
- (\_/)
-( •,•)
-(")_(")
+Dicas: definir uma paleta de cores; 
