@@ -10,3 +10,7 @@ Os sites devem ter:
 - logo tipo e nomes proprios (sem copia);
 
 Dicas: definir uma paleta de cores;
+
+ (\_/)
+( •,•)
+(")_(")
